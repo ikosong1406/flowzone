@@ -6,6 +6,8 @@ import Colors from "./components/Colors";
 import Landing from "./pages/Landing";
 import Header1 from "./components/Header1";
 import Footer from "./components/Footer";
+import Login from "./pages/Login";
+import Register from "./pages/Register";
 
 const App = () => {
   const [isLoading, setIsLoading] = useState(false);
@@ -59,6 +61,8 @@ const App = () => {
                     </Layout1>
                   }
                 />
+                <Route path="/login" element={<Login />} />
+                <Route path="/register" element={<Register />} />
               </Routes>
             </Router>
           </>
