@@ -126,24 +126,20 @@
   }
 
   .loginDiv22 h1 {
-    color: var(--black);
-    font-family: "Roboto", sans-serif;
+    font-size: 18px;
   }
 
   .loginDiv22 h3 {
-    color: var(--black);
-    font-family: "Roboto", sans-serif;
-    margin-top: -10px;
+    font-size: 12px;
   }
 
   .loginDiv23 {
     margin-top: 40px;
-    width: 85%;
+    width: 90%;
   }
 
   .loginDiv23 h3 {
-    color: var(--black);
-    font-family: "Roboto", sans-serif;
+    font-size: 12px;
   }
 
   .loginDiv23 input {
@@ -155,9 +151,7 @@
   }
 
   .loginDiv23 h4 {
-    text-align: right;
-    color: var(--black);
-    font-family: "Roboto", sans-serif;
+    font-size: 10px;
   }
 
   .loginDiv23Btn {
@@ -176,16 +170,13 @@
   }
 
   .loginDiv23Btn h3 {
-    color: var(--white);
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-style: normal;
+    font-size: 12px;
   }
 
   .loginDiv24 {
     display: flex;
     margin-top: 20px;
-    width: 85%;
+    width: 90%;
     justify-content: space-between;
   }
 
@@ -202,13 +193,12 @@
   }
 
   .loginDiv26 {
-    width: 85%;
+    width: 90%;
     display: flex;
     justify-content: center;
   }
 
   .loginDiv26 h3 {
-    color: var(--black);
-    font-family: "Roboto", sans-serif;
+    font-size: 12px;
   }
 }

@@ -126,24 +126,20 @@
   }
 
   .registerDiv22 h1 {
-    color: var(--black);
-    font-family: "Roboto", sans-serif;
+    font-size: 18px;
   }
 
   .registerDiv22 h3 {
-    color: var(--black);
-    font-family: "Roboto", sans-serif;
-    margin-top: -10px;
+    font-size: 12px;
   }
 
   .registerDiv23 {
     margin-top: 40px;
-    width: 85%;
+    width: 90%;
   }
 
   .registerDiv23 h3 {
-    color: var(--black);
-    font-family: "Roboto", sans-serif;
+    font-size: 12px;
   }
 
   .registerDiv23 input {
@@ -152,12 +148,6 @@
     width: 95%;
     border-width: 1px;
     background-color: var(--white);
-  }
-
-  .registerDiv23 h4 {
-    text-align: right;
-    color: var(--black);
-    font-family: "Roboto", sans-serif;
   }
 
   .registerDiv23Btn {
@@ -176,16 +166,13 @@
   }
 
   .registerDiv23Btn h3 {
-    color: var(--white);
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-style: normal;
+    font-size: 12px;
   }
 
   .registerDiv24 {
     display: flex;
     margin-top: 20px;
-    width: 85%;
+    width: 90%;
     justify-content: space-between;
   }
 
@@ -202,13 +189,12 @@
   }
 
   .registerDiv26 {
-    width: 85%;
+    width: 90%;
     display: flex;
     justify-content: center;
   }
 
   .registerDiv26 h3 {
-    color: var(--black);
-    font-family: "Roboto", sans-serif;
+    font-size: 12px;
   }
 }
